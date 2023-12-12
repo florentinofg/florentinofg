@@ -1,5 +1,5 @@
 <p align="center">
-  # Florentino Fernandez  
+  <h1> Florentino Fernandez </h1> 
 </p>
 <p align="center">
   ## **`Mathematician · Data Scientist · Frontend Developer`**
