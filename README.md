@@ -38,7 +38,7 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 
 ## My Data Analytics Portfolio 
 
-[Board Slides for FoodWheel](cuisines.png)
+[Board Slides for FoodWheel]([cuisines.png](https://github.com/florentinofg/foodwheel-Cuisines/blob/main/foodwheel_project.ipynb))
 <img src="cuisines.png?raw=true"/>
 
 ---
