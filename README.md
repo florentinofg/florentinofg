@@ -67,9 +67,7 @@ This document is meant to be a guide to practice some graphics with Seaborn.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinofg)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=florentinofg&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinofg)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=florentinofg&show_icons=true)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=florentinofg)](https://github.com/ryo-ma/github-profile-trophy)
 
