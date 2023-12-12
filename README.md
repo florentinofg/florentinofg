@@ -56,6 +56,10 @@ Analyze variables within the data to gain patterns and insights on these questio
 
 ---
 [Seaborn practice](https://github.com/florentinofg/Seaborn-practice/blob/main/Some%20practice%20with%20Seaborn.ipynb)
+
+Seaborn is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some of the common data visualisation needs.
+
+This document is meant to be a guide to practice some graphics with Seaborn.
 <img src="Seaborn practice.png?raw=true"/>
 
 
