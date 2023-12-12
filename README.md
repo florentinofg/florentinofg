@@ -38,6 +38,15 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 *	Data Scientist: Analytics - Codecademy - Concluded 2023
 
 
+  <link rel="stylesheet" href="style.css" />
+
+<div class="centered">
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
+</div>
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/florentino-fernández-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinofg)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,7 +55,3 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=florentinofg)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<style scoped>
-  @import url('style.css');
-</style>
