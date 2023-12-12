@@ -36,7 +36,7 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 *	Front End Developer (Build Websites from Scratch) - Codecademy - Concluded 2017
 *	Data Scientist: Analytics - Codecademy - Concluded 2023
 
-## Some projects from my Analytics Portfolio 
+## Some projects from my Data Analytics Portfolio 
 
 [Board Slides for FoodWheel](https://github.com/florentinofg/foodwheel-Cuisines/blob/main/foodwheel_project.ipynb)
 
