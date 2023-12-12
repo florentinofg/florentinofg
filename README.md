@@ -36,6 +36,19 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 *	Front End Developer (Build Websites from Scratch) - Codecademy - Concluded 2017
 *	Data Scientist: Analytics - Codecademy - Concluded 2023
 
+## My Data Analytics Portfolio 
+
+[Board Slides for FoodWheel](cuisines.png)
+<img src="cuisines.png?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/florentino-fernández-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
