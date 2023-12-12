@@ -34,9 +34,9 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 
 ## Education
 
-❖	Bachelor’s Degree in Educational Math – Universidad Central de Venezuela – Concluded 2010
-❖	Front End Developer (Build Websites from Scratch) - Codecademy - Concluded 2017
-❖	Data Scientist: Analytics - Codecademy - Concluded 2023
+*	Bachelor’s Degree in Educational Math – Universidad Central de Venezuela – Concluded 2010
+*	Front End Developer (Build Websites from Scratch) - Codecademy - Concluded 2017
+*	Data Scientist: Analytics - Codecademy - Concluded 2023
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/florentino-fernández-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
