@@ -63,8 +63,7 @@ This document is meant to be a guide to practice some graphics with Seaborn.
 <img src="Seaborn practice.png?raw=true"/>
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/florentino-fernández-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/florentino-fern%C3%A1ndez-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinofg)](https://github.com/anuraghazra/github-readme-stats)
 
