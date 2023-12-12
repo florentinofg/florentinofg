@@ -10,9 +10,9 @@
 I have pursued my passion for technology and data by learning various skills and tools, such as Python, SQL, Tableau, Power BI, HTML, CSS, Javascript, PHP, and more. I enjoy using data to make better decisions and solve problems across different domains and departments
 
 ## Language and Tools  
-
+<p align="center">
 Python <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
+</p>
 HTML <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
 CSS <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
