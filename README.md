@@ -7,43 +7,22 @@ I have pursued my passion for technology and data by learning various skills and
 ## Language and Tools  
 
 <div class="language-tools">
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" />
-    Python
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML" />
-    HTML
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS" />
-    CSS
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
-    JavaScript
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
-    GitHub
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
-    Linux
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" title="Tableau" />
-    📊 Tableau
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg" title="SQL" />
-    SQL
-  </div>
-  <div class="language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/power-bi/power-bi-original.svg" title="Power BI" />
-    Power BI
-  </div>
+Python <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+HTML <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+CSS <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+JavaScript <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+GitHub <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+Linux <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+
+📊 Tableau / SQL / Power BI
 </div>
+
 ## Experience
 
 Channel Support Advisor - | Apple, Ireland | February. 2022 – Present
