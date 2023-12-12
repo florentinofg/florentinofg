@@ -69,7 +69,7 @@ This document is meant to be a guide to practice some graphics with Seaborn.
 [![trophy](https://github-profile-trophy.vercel.app/?username=florentinofg)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div class="social-icons">
-  [[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/florentino-fern%C3%A1ndez-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
+  [Link to GitHub](https://github.com/florentinofg) [Link to LinkedIn](https://www.linkedin.com/in/florentino-fern%C3%A1ndez-3651977b/) [Link to Instagram](https://www.instagram.com/FlorentinoFG/)
 </div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/florentino-fern%C3%A1ndez-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
