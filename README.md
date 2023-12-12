@@ -36,7 +36,7 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 *	Front End Developer (Build Websites from Scratch) - Codecademy - Concluded 2017
 *	Data Scientist: Analytics - Codecademy - Concluded 2023
 
-## My Data Analytics Portfolio 
+## Some projects from my Analytics Portfolio 
 
 [Board Slides for FoodWheel](https://github.com/florentinofg/foodwheel-Cuisines/blob/main/foodwheel_project.ipynb)
 
@@ -44,8 +44,8 @@ To analyze several DataFrames and create several visualizations to help answer t
 <img src="cuisines.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Exploring Purchas Behavior](https://github.com/florentinofg/Exploring-Purchas-Behavior/blob/main/Exploring-purchase-behavior-under-certain-factors.ipynb)
+<img src="Exploring Purchas Behavior.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
