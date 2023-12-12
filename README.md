@@ -55,8 +55,8 @@ Analyze variables within the data to gain patterns and insights on these questio
 <img src="Exploring Purchas Behavior.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Seaborn practice](https://github.com/florentinofg/Seaborn-practice/blob/main/Some%20practice%20with%20Seaborn.ipynb)
+<img src="Seaborn practice.png?raw=true"/>
 
 
 
