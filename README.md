@@ -45,6 +45,13 @@ To analyze several DataFrames and create several visualizations to help answer t
 
 ---
 [Exploring Purchas Behavior](https://github.com/florentinofg/Exploring-Purchas-Behavior/blob/main/Exploring-purchase-behavior-under-certain-factors.ipynb)
+
+This Project contains an analysis on some marketing data. The goal for this project was to do the following:
+
+Get acquainted with the data
+Clean the data so it is ready for analysis
+Develop some questions for analysis
+Analyze variables within the data to gain patterns and insights on these questions
 <img src="Exploring Purchas Behavior.png?raw=true"/>
 
 ---
