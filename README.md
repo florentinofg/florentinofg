@@ -1,5 +1,5 @@
 
-  <h1 align="center"> Florentino Fernandez </h1> 
+# Florentino Fernandez 
   
 ## **`Mathematician · Data Scientist · Frontend Developer`**
 
