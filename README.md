@@ -1,9 +1,8 @@
 
 # Florentino Fernandez 
   
-<div class="centered">
-  ## **`Mathematician · Data Scientist · Frontend Developer`**
-</div>
+## **`Mathematician · Data Scientist · Frontend Developer`**
+
 
 ![Data Scientist · Data Analyst · Frontend Developer](DreamShaper_v5_Impress_your_network_with_a_diverse_and_visuall_1.jpg)
 
