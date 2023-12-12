@@ -2,21 +2,4 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  padding: 20px;
-}
-
-.language {
-  margin-bottom: 10px;
-}
-
-.language img {
-  width: 30px;
-  margin-right: 10px;
-}
-
-
-.centered {
-  text-align: center;
-  margin-top: 20px;
-}
+  align-items
