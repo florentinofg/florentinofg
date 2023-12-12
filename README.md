@@ -12,10 +12,10 @@ Skills: Python / SQL / JS / HTML / CSS / Tableau
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/florentinofg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/florentino-fernández-3651977b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/FlorentinoFG/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=florentinofg)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinofg)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=florentinofg&show_icons=true)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=florentinofg)](https://github.com/ryo-ma/github-profile-trophy)
 
 
