@@ -1,6 +1,6 @@
-<p align="center">
-  <h1> Florentino Fernandez </h1> 
-</p>
+
+  <h1 align="center"> Florentino Fernandez </h1> 
+
 <p align="center">
   ## **`Mathematician · Data Scientist · Frontend Developer`**
  </p> 
