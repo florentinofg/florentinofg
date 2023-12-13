@@ -48,12 +48,14 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 ---
 [Exploring Purchas Behavior](https://github.com/florentinofg/Exploring-Purchas-Behavior/blob/main/Exploring-purchase-behavior-under-certain-factors.ipynb)
 
-This Project contains an analysis on some marketing data. The goal for this project was to do the following:
+<p>This Project contains an analysis on some marketing data. The goal for this project was to do the following:</p>
 
-Get acquainted with the data
-Clean the data so it is ready for analysis
-Develop some questions for analysis
-Analyze variables within the data to gain patterns and insights on these questions
+<ul>
+<li>Get acquainted with the data</li>
+<li>Clean the data so it is ready for analysis</li>
+<li>Develop some questions for analysis</li>
+<li>Analyze variables within the data to gain patterns and insights on these questions</li>
+</ul>
 <a href="https://github.com/florentinofg/Exploring-Purchas-Behavior/blob/main/Exploring-purchase-behavior-under-certain-factors.ipynb"><img src="Exploring Purchas Behavior.png?raw=true" alt="Cuisines" width="500" height="400"/></a>
 
 ---
