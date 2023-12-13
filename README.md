@@ -61,9 +61,9 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 ---
 [Seaborn practice](https://github.com/florentinofg/Seaborn-practice/blob/main/Some%20practice%20with%20Seaborn.ipynb)
 
-Seaborn is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some of the common data visualisation needs.
+<p>Seaborn is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some of the common data visualisation needs.</p>
 
-This document is meant to be a guide to practice some graphics with Seaborn.
+<p>This document is meant to be a guide to practice some graphics with Seaborn.</p>
 <a href="https://github.com/florentinofg/Seaborn-practice/blob/main/Some%20practice%20with%20Seaborn.ipynb"><img src="Seaborn practice.png?raw=true" alt="Cuisines" width="500" height="400"/></a>
 
 ## Some Tableau projects
