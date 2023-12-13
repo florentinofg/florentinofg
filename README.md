@@ -41,7 +41,7 @@ CR+ Advisor AHA - | Apple, Ireland | November. 2016 – February 2022
 [Board Slides for FoodWheel](https://github.com/florentinofg/foodwheel-Cuisines/blob/main/foodwheel_project.ipynb)
 
 To analyze several DataFrames and create several visualizations to help answer these questions: What cuisines does FoodWheel offer? Which areas should the company search for more restaurants to partner with? How has the average order amount changed over time? What does this say about the trajectory of the company? How much has each customer on FoodWheel spent over the past six months? What can this tell us about the average FoodWheel customer?
-<a href="https://github.com/florentinofg/foodwheel-Cuisines/blob/main/foodwheel_project.ipynb"><img src="cuisines.png?raw=true" alt="Cuisines" width="300" height="200"/></a>
+<a href="https://github.com/florentinofg/foodwheel-Cuisines/blob/main/foodwheel_project.ipynb"><img src="cuisines.png?raw=true" alt="Cuisines" width="500" height="500"/></a>
 
 ---
 [Exploring Purchas Behavior](https://github.com/florentinofg/Exploring-Purchas-Behavior/blob/main/Exploring-purchase-behavior-under-certain-factors.ipynb)
