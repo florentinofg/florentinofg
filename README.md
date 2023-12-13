@@ -54,7 +54,7 @@ Get acquainted with the data
 Clean the data so it is ready for analysis
 Develop some questions for analysis
 Analyze variables within the data to gain patterns and insights on these questions
-<a href="https://github.com/florentinofg/Exploring-Purchas-Behavior/blob/main/Exploring-purchase-behavior-under-certain-factors.ipynb"><img src="Exploring Purchas Behavior.png?raw=true"/></a>
+<a href="https://github.com/florentinofg/Exploring-Purchas-Behavior/blob/main/Exploring-purchase-behavior-under-certain-factors.ipynb"><img src="Exploring Purchas Behavior.png?raw=true" alt="Cuisines" width="500" height="400"/></a>
 
 ---
 [Seaborn practice](https://github.com/florentinofg/Seaborn-practice/blob/main/Some%20practice%20with%20Seaborn.ipynb)
@@ -62,7 +62,7 @@ Analyze variables within the data to gain patterns and insights on these questio
 Seaborn is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some of the common data visualisation needs.
 
 This document is meant to be a guide to practice some graphics with Seaborn.
-<a href="https://github.com/florentinofg/Seaborn-practice/blob/main/Some%20practice%20with%20Seaborn.ipynb"><img src="Seaborn practice.png?raw=true"/></a>
+<a href="https://github.com/florentinofg/Seaborn-practice/blob/main/Some%20practice%20with%20Seaborn.ipynb"><img src="Seaborn practice.png?raw=true" alt="Cuisines" width="500" height="400"/></a>
 
 ## Some Tableau projects
 
