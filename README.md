@@ -62,7 +62,7 @@ Seaborn is a graphic library built on top of Matplotlib. It allows to make your 
 This document is meant to be a guide to practice some graphics with Seaborn.
 <img src="Seaborn practice.png?raw=true"/>
 
-## Some numbers: 
+## Some numbers
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinofg)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=florentinofg&show_icons=true)  
 
